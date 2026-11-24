@@ -1,0 +1,5 @@
+{
+  "name": "tisan-theme",
+  "owner": { "name": "TISan Studio" },
+  "plugins": [{ "name": "tisan-theme", "source": "./" }]
+}
